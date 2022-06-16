@@ -1,0 +1,22 @@
+[
+  {
+    "package": "AutoDeskR",
+    "oncran": true
+  },
+  {
+    "package": "BayesianNetwork",
+    "oncran": true
+  },
+  {
+    "package": "eAnalytics",
+    "oncran": true
+  },
+  {
+    "package": "energyr",
+    "oncran": true
+  },
+  {
+    "package": "QRAGadget",
+    "oncran": true
+  }
+]
