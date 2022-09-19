@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "eAnalytics",
+    "oncran": true
+  },
+  {
     "package": "energyr",
     "oncran": true
   },
