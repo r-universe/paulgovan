@@ -13,11 +13,6 @@
 	url = https://github.com/paulgovan/bayesiannetwork
 	shallow = true
 	registered = true
-[submodule "eAnalytics"]
-	path = eAnalytics
-	url = https://github.com/paulgovan/eanalytics
-	shallow = true
-	registered = true
 [submodule "energyr"]
 	path = energyr
 	url = https://github.com/paulgovan/energyr
