@@ -1,10 +1,10 @@
 [
   {
-    "package": "AutoDeskR",
+    "package": "BayesianNetwork",
     "oncran": true
   },
   {
-    "package": "BayesianNetwork",
+    "package": "AutoDeskR",
     "oncran": true
   },
   {
@@ -12,11 +12,11 @@
     "oncran": true
   },
   {
-    "package": "energyr",
+    "package": "QRAGadget",
     "oncran": true
   },
   {
-    "package": "QRAGadget",
+    "package": "energyr",
     "oncran": true
   }
 ]

@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "AutoDeskR"]
-	path = AutoDeskR
-	url = https://github.com/paulgovan/autodeskr
-	shallow = true
-	registered = true
 [submodule "BayesianNetwork"]
 	path = BayesianNetwork
 	url = https://github.com/paulgovan/bayesiannetwork
+	shallow = true
+	registered = true
+[submodule "AutoDeskR"]
+	path = AutoDeskR
+	url = https://github.com/paulgovan/autodeskr
 	shallow = true
 	registered = true
 [submodule "eAnalytics"]
@@ -18,13 +18,13 @@
 	url = https://github.com/paulgovan/eanalytics
 	shallow = true
 	registered = true
-[submodule "energyr"]
-	path = energyr
-	url = https://github.com/paulgovan/energyr
-	shallow = true
-	registered = true
 [submodule "QRAGadget"]
 	path = QRAGadget
 	url = https://github.com/paulgovan/qragadget
+	shallow = true
+	registered = true
+[submodule "energyr"]
+	path = energyr
+	url = https://github.com/paulgovan/energyr
 	shallow = true
 	registered = true
