@@ -28,3 +28,8 @@
 	url = https://github.com/paulgovan/qragadget
 	shallow = true
 	registered = true
+[submodule "WeibullR.plotly"]
+	path = WeibullR.plotly
+	url = https://github.com/paulgovan/weibullr.plotly
+	shallow = true
+	registered = true
