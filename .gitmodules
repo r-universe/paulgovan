@@ -28,6 +28,11 @@
 	url = https://github.com/paulgovan/qragadget
 	shallow = true
 	registered = true
+[submodule "WeibullR.learnr"]
+	path = WeibullR.learnr
+	url = https://github.com/paulgovan/weibullr.learnr
+	shallow = true
+	registered = true
 [submodule "WeibullR.plotly"]
 	path = WeibullR.plotly
 	url = https://github.com/paulgovan/weibullr.plotly
