@@ -38,3 +38,8 @@
 	url = https://github.com/paulgovan/weibullr.plotly
 	shallow = true
 	registered = true
+[submodule "WeibullR.shiny"]
+	path = WeibullR.shiny
+	url = https://github.com/paulgovan/weibullr.shiny
+	shallow = true
+	registered = true
