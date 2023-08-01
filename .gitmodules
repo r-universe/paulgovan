@@ -8,12 +8,6 @@
 [submodule "BayesianNetwork"]
 	path = BayesianNetwork
 	url = https://github.com/paulgovan/bayesiannetwork
-[submodule "eAnalytics"]
-	path = eAnalytics
-	url = https://github.com/paulgovan/eanalytics
-[submodule "energyr"]
-	path = energyr
-	url = https://github.com/paulgovan/energyr
 [submodule "QRAGadget"]
 	path = QRAGadget
 	url = https://github.com/paulgovan/qragadget
@@ -26,3 +20,9 @@
 [submodule "WeibullR.shiny"]
 	path = WeibullR.shiny
 	url = https://github.com/paulgovan/weibullr.shiny
+[submodule "eAnalytics"]
+	path = eAnalytics
+	url = https://github.com/paulgovan/eanalytics
+[submodule "energyr"]
+	path = energyr
+	url = https://github.com/paulgovan/energyr
