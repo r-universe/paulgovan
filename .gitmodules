@@ -8,6 +8,9 @@
 [submodule "BayesianNetwork"]
 	path = BayesianNetwork
 	url = https://github.com/paulgovan/bayesiannetwork
+[submodule "PRA"]
+	path = PRA
+	url = https://github.com/paulgovan/pra
 [submodule "QRAGadget"]
 	path = QRAGadget
 	url = https://github.com/paulgovan/qragadget
