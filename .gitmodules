@@ -14,6 +14,9 @@
 [submodule "QRAGadget"]
 	path = QRAGadget
 	url = https://github.com/paulgovan/qragadget
+[submodule "ReliaGrowR"]
+	path = ReliaGrowR
+	url = https://github.com/paulgovan/reliagrowr
 [submodule "WeibullR.learnr"]
 	path = WeibullR.learnr
 	url = https://github.com/paulgovan/weibullr.learnr
