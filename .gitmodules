@@ -20,15 +20,6 @@
 [submodule "ReliaPlotR"]
 	path = ReliaPlotR
 	url = https://github.com/paulgovan/reliaplotr
-[submodule "ReliaShiny"]
-	path = ReliaShiny
-	url = https://github.com/paulgovan/reliashiny
-[submodule "WeibullR.learnr"]
-	path = WeibullR.learnr
-	url = https://github.com/paulgovan/weibullr.learnr
-[submodule "WeibullR.plotly"]
-	path = WeibullR.plotly
-	url = https://github.com/paulgovan/weibullr.plotly
 [submodule "WeibullR.shiny"]
 	path = WeibullR.shiny
 	url = https://github.com/paulgovan/weibullr.shiny
