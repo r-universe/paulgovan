@@ -17,6 +17,9 @@
 [submodule "ReliaGrowR"]
 	path = ReliaGrowR
 	url = https://github.com/paulgovan/reliagrowr
+[submodule "ReliaLearnR"]
+	path = ReliaLearnR
+	url = https://github.com/paulgovan/relialearnr
 [submodule "ReliaPlotR"]
 	path = ReliaPlotR
 	url = https://github.com/paulgovan/reliaplotr
