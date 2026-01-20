@@ -26,15 +26,6 @@
 [submodule "ReliaShiny"]
 	path = ReliaShiny
 	url = https://github.com/paulgovan/reliashiny
-[submodule "WeibullR.learnr"]
-	path = WeibullR.learnr
-	url = https://github.com/cran/WeibullR.learnr
-[submodule "WeibullR.plotly"]
-	path = WeibullR.plotly
-	url = https://github.com/cran/WeibullR.plotly
-[submodule "WeibullR.shiny"]
-	path = WeibullR.shiny
-	url = https://github.com/paulgovan/weibullr.shiny
 [submodule "eAnalytics"]
 	path = eAnalytics
 	url = https://github.com/paulgovan/eanalytics
